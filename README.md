@@ -1,3 +1,3 @@
 # conflicttest
 
-- hello로 수정
+- hello2 로 수정
